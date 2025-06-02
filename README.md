@@ -102,10 +102,6 @@ This project is for educational and research purposes only.
 - Red Team Tactics
 
 ## 🔒 Ethical Use Only
+
 Use responsibly. Learn legally.
-```markdown
-Let me know if you'd like:
-- A GIF or image showing the attack in action
-- Instructions for setting up Arduino IDE for Digispark or Leonardo
-- A separate `.ino` file export
-```
+
